@@ -20,4 +20,3 @@ This mini project aims to
 5. [ ] Generate Report of Monthly Supplies and Materials Issued.
 
 6. [ ] Display Issued and materials by item name, code, requester and month.
-- [ ] 
